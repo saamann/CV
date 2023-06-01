@@ -1,0 +1,63 @@
+/* h1{
+    color: rgb(72, 0, 255);
+    font-size: 50px;
+    text-align: center;
+
+} */
+
+body{
+    background-color: antiquewhite;
+
+
+}
+.photo{
+    border-radius: 30%;
+    width: 20%;
+    height: 50%;
+
+
+}
+.signature P{
+
+font-size: 20px;
+color: black;
+font-weight: bold;
+
+
+}
+hr {
+    width: 20%;
+    border-style: ridge;
+    border-style: ridge solid dotted dashed;
+     border-width: 1px;
+}
+
+/* Synopsis CSS starts */
+.synopsis h4{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+.synopsis{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+}
+/* personal qualities */
+.qualities h4{
+    font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blueviolet;
+        text-align: center;
+        font-weight: bold;
+}
+.qualities{
+    font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        text-align: center
+}
+
